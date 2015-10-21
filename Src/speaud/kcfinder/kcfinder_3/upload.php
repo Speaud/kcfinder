@@ -12,8 +12,6 @@
   *      @link http://kcfinder.sunhater.com
   */
 
-namespace Speaud\KcFinder;
-
 require "core/bootstrap.php";
 
 class Upload {
