@@ -1,5 +1,5 @@
 {
-    "name": "Speaud/kcfinder",
+    "name": "speaud/kcfinder",
     "type": "library",
     "description": "Composer adaptation following psr-4 specs for kcfinder, a free open-source replacement of CKFinder web file manager ",    
     "keywords": ["html", "kcfinder", "ckeditor"],
